@@ -1,0 +1,6 @@
+boto3==1.18.16
+botocore==1.16.19
+pip==20.0.2
+xmltodict==0.12.0
+requests==2.22.0
+protobuf==3.17.3
